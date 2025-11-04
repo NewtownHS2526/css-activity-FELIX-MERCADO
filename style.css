@@ -1,0 +1,42 @@
+body {
+    background: purple;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: white
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+    margin: 20px;
+}
+
+a {
+    color: white;
+    background: red;
+}
+
+img {
+    border: 5px solid blue;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.container {
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 20px;
+    background: black;
+}
+
+.bad-design {
+    background: pink;
+    color: black;
+    padding: 15px;
+    margin: 25px;
+    border: 3px solid green;
+}
